@@ -1,2 +1,2 @@
 language = "python3"
-run = "make replit_pipeline"
+run = "make replit_refresher"
