@@ -7,9 +7,6 @@
 *Python simple eval API*
 
 
-
-
-
 </td></tr>
 
 </table>    
@@ -17,9 +14,9 @@
 
 <div align="center">
 
-> [![Version badge](https://img.shields.io/badge/version-0.0.0-silver.svg)]()
+> [![Version badge](https://img.shields.io/badge/version-0.0.1-silver.svg)](https://Calculon--brunolcarli.repl.co)
 >[![GraphQl Badge](https://badgen.net/badge/icon/graphql/pink?icon=graphql&label)]()
-[![Run on Repl.it](https://repl.it/badge/github/brunolcarli/Calculon)]()
+[![Run on Repl.it](https://repl.it/badge/github/brunolcarli/Calculon)](https://Calculon--brunolcarli.repl.co)
 
 </div>
 
